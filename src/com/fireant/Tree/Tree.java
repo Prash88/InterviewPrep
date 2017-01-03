@@ -1,4 +1,4 @@
-package com.fireant;
+package com.fireant.Tree;
 
 /**
  * Created by pskumar on 1/2/17.

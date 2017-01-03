@@ -1,4 +1,4 @@
-package com.fireant;
+package com.fireant.Tree;
 
 public class TreeTraversals {
 
