@@ -18,10 +18,13 @@ public class TreeTraversals {
         t3.left = t6;
         t3.right = t7;
         TreeTraversals t = new TreeTraversals();
+        System.out.println("Inorder : ");
         t.inorder(t1);
         System.out.println();
+        System.out.println("Preorder : ");
         t.preorder(t1);
         System.out.println();
+        System.out.println("Postorder : ");
         t.postorder(t1);
     }
 
